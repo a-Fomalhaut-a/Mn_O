@@ -1,7 +1,7 @@
 import numpy as np
 
 data_info = {
-    'fea_data': "data/featry.xlsx",  # an excel
+    'fea_data': "data/featry1.xlsx",  # an excel
     'year_data': [500,1500,2500],  # list or excel /Ma
     'fea_dim': 27,
 }
